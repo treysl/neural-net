@@ -1,0 +1,56 @@
+============================================================
+  Neural Network Predictions - Result obtained by Trey Lumley
+============================================================
+
+Total predictions: 45
+
+Predictions (class labels):
+------------------------------------------------------------
+  Sample  1: Class 1 (versicolor)
+  Sample  2: Class 0 (setosa)
+  Sample  3: Class 2 (virginica)
+  Sample  4: Class 1 (versicolor)
+  Sample  5: Class 1 (versicolor)
+  Sample  6: Class 0 (setosa)
+  Sample  7: Class 1 (versicolor)
+  Sample  8: Class 2 (virginica)
+  Sample  9: Class 1 (versicolor)
+  Sample 10: Class 1 (versicolor)
+  Sample 11: Class 2 (virginica)
+  Sample 12: Class 0 (setosa)
+  Sample 13: Class 0 (setosa)
+  Sample 14: Class 0 (setosa)
+  Sample 15: Class 0 (setosa)
+  Sample 16: Class 1 (versicolor)
+  Sample 17: Class 2 (virginica)
+  Sample 18: Class 1 (versicolor)
+  Sample 19: Class 1 (versicolor)
+  Sample 20: Class 2 (virginica)
+  Sample 21: Class 0 (setosa)
+  Sample 22: Class 2 (virginica)
+  Sample 23: Class 0 (setosa)
+  Sample 23: Class 0 (setosa)
+  Sample 24: Class 2 (virginica)
+  Sample 25: Class 2 (virginica)
+  Sample 26: Class 2 (virginica)
+  Sample 27: Class 2 (virginica)
+  Sample 28: Class 2 (virginica)
+  Sample 29: Class 0 (setosa)
+  Sample 30: Class 0 (setosa)
+  Sample 31: Class 0 (setosa)
+  Sample 32: Class 0 (setosa)
+  Sample 33: Class 1 (versicolor)
+  Sample 34: Class 0 (setosa)
+  Sample 35: Class 0 (setosa)
+  Sample 36: Class 2 (virginica)
+  Sample 37: Class 1 (versicolor)
+  Sample 38: Class 0 (setosa)
+  Sample 39: Class 0 (setosa)
+  Sample 40: Class 0 (setosa)
+  Sample 41: Class 2 (virginica)
+  Sample 42: Class 1 (versicolor)
+  Sample 43: Class 1 (versicolor)
+  Sample 44: Class 0 (setosa)
+  Sample 45: Class 0 (setosa)
+------------------------------------------------------------
+Accuracy: 1.00
