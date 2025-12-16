@@ -1,0 +1,73 @@
+============================================================
+Dataset Information
+============================================================
+
+Number of samples: 178
+Number of features: 13
+
+Features:
+  - alcohol
+  - malic_acid
+  - ash
+  - alcalinity_of_ash
+  - magnesium
+  - total_phenols
+  - flavanoids
+  - nonflavanoid_phenols
+  - proanthocyanins
+  - color_intensity
+  - hue
+  - od280/od315_of_diluted_wines
+  - proline
+
+Target variable: wine class
+Classes:
+  0: class_0
+  1: class_1
+  2: class_2
+
+============================================================
+Data Split
+============================================================
+Training samples: 124
+Test samples:     54
+
+============================================================
+Training the Neural Network
+============================================================
+
+============================================================
+Neural Network Evaluation - Wine Classification
+============================================================
+Accuracy: 0.3333
+
+Confusion Matrix (rows: true class, columns: predicted class):
+[[18  0  0]
+ [21  0  0]
+ [15  0  0]]
+
+Detailed Classification Report:
+              precision    recall  f1-score   support
+
+     class_0       0.33      1.00      0.50        18
+     class_1       0.00      0.00      0.00        21
+     class_2       0.00      0.00      0.00        15
+
+    accuracy                           0.33        54
+   macro avg       0.11      0.33      0.17        54
+weighted avg       0.11      0.33      0.17        54
+
+
+------------------------------------------------------------
+Sample Predictions (first 10 test examples)
+------------------------------------------------------------
+Sample  1: True = class_0    | Predicted = class_0
+Sample  2: True = class_1    | Predicted = class_0
+Sample  3: True = class_0    | Predicted = class_0
+Sample  4: True = class_0    | Predicted = class_0
+Sample  5: True = class_0    | Predicted = class_0
+Sample  6: True = class_0    | Predicted = class_0
+Sample  7: True = class_2    | Predicted = class_0
+Sample  8: True = class_1    | Predicted = class_0
+Sample  9: True = class_1    | Predicted = class_0
+Sample 10: True = class_2    | Predicted = class_0
